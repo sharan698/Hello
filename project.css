@@ -1,0 +1,38 @@
+body{
+    background-color: white;
+    height: 4434px;
+    
+}
+header{
+    
+}
+.left{
+    position: relative;
+    display: inline-block;
+    left:70%; 
+}
+a{
+    text-decoration: none;
+}
+a:link{
+    color:black;
+}
+a:visited{
+    color: blue;
+}
+a:hover{
+    color: aquamarine;
+}
+a:active{
+    color:green;
+}
+.mid{
+    position:relative;
+    display:inline-block;
+    left: 72%;
+}
+
+.last{
+    display: inline-block;
+    
+}
